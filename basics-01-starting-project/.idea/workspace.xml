@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b73cd3f-4244-4ab4-917d-94f65b6e933e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../control-03-monster-killer-starting-project/assets/scripts/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../control-03-monster-killer-starting-project/assets/scripts/app.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +25,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1c8UYw0CHePZ7InXgOm1VaMR2da" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -77,7 +82,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589909764063</updated>
-      <workItem from="1589909766124" duration="6855000" />
+      <workItem from="1589909766124" duration="7136000" />
+      <workItem from="1590122104204" duration="539000" />
     </task>
     <servers />
   </component>
@@ -89,7 +95,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
